@@ -2,4 +2,6 @@
 
 Например, существует метод console.log(), который используется для вывода сообщений в консоль. Эта команда выведет в консоль Hello, world!:
 
-```console.log('Hello, world!');```
+``` javascript
+console.log('Hello, world!');
+```
