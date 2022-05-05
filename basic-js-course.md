@@ -1238,7 +1238,6 @@ function getLocation(coordinates, commands) {
   }
   return arr;
 }
-
 console.log( getLocation([0, 0], ['forward', 'right']) ); 
 console.log( getLocation([2, 3], ['back', 'back', 'back', 'right']) );
 console.log( getLocation([0, 5], ['back', 'back', 'back', 'right', 'left', 'forward']) );
